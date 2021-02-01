@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Nitin Tulswani 👋
 
-<!--
-**nitin42/nitin42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer currently working at [Bulb Energy](https://bulb.co.uk/) based in London.
 
-Here are some ideas to get you started:
+You can get in touch with me on Twitter [@NTulswani](https://twitter.com/NTulswani) where I mostly share things about my work, or through [email](mailto:tulswani19@gmail.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am not so active these days as I used to be working on the open source projects but the pinned projects below are some of my favourite 🤩 
+
+#### Other things
+
+I enjoy creating generative art. These are some of things that I have created in the generative art world -
+
+* [Elements Of Physics](https://elements-of-physics.surge.sh/) 🚀 - Learn about different elements of physics using an interactive simulator.
+
+* [React handy renderer](https://github.com/nitin42/react-handy-renderer) ✍️ - A custom React renderer to draw 2D primitives in sketchy style. 
+
+* [Generative design](http://generative-design.surge.sh/) 🌟 - A collection of interactive sketches created using Processing.
+
+* [Shaping functions](https://shaping-functions.surge.sh/) 🌊 - A visualisation of different shaping functions used in shaders.
