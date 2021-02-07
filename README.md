@@ -8,7 +8,7 @@ I am not so active these days as I used to be working on the open source project
 
 #### Other things
 
-I enjoy working on creating coding projects. These are some of things that I have created in the generative art world -
+I enjoy working on creative coding projects. These are some of things that I have created in the generative art world -
 
 * [Elements Of Physics](https://elements-of-physics.surge.sh/) 🚀 - Learn about different elements of physics using an interactive simulator.
 
