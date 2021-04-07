@@ -21,4 +21,4 @@ I enjoy working on creative coding projects. These are some of things that I hav
 * [Shaping functions](https://shaping-functions.surge.sh/) 🌊 - A visualisation of different shaping functions used in shaders.
 
 
-#### Latest project - :star2::star2: [Word class visualiser](https://word-classes-visualiser.netlify.app/) :star2::star2:
+#### Latest project - [Word class visualiser](https://word-classes-visualiser.netlify.app/) 🤓
