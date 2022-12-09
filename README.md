@@ -2,7 +2,7 @@
 
 I'm currently working at [Trainline](https://www.thetrainline.com) based in London. You can get in touch with me on Twitter [@NTulswani](https://twitter.com/NTulswani) where I mostly share things about my work, or through [email](mailto:tulswani19@gmail.com). 
 
-I enjoy working on creative coding projects. These are some of things that I have created in the generative art world -
+I enjoy working on creative coding projects. Here's some stuff that I have built -
 
 * [Elements Of Physics](https://elements-of-physics.surge.sh/) 🚀 - Learn about different elements of physics using an interactive simulator.
 
