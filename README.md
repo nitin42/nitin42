@@ -1,6 +1,6 @@
 ### Hi, I'm Nitin Tulswani 👋
 
-I am a web developer currently working at [Bulb Energy](https://bulb.co.uk/) based in London.
+I am a web developer currently working at [Trainline](https://www.thetrainline.com) based in London.
 
 You can get in touch with me on Twitter [@NTulswani](https://twitter.com/NTulswani) where I mostly share things about my work, or through [email](mailto:tulswani19@gmail.com).
 
