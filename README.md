@@ -1,8 +1,6 @@
 ### Hi, I'm Nitin Tulswani 👋
 
-I am a web developer currently working at [Trainline](https://www.thetrainline.com) based in London.
-
-You can get in touch with me on Twitter [@NTulswani](https://twitter.com/NTulswani) where I mostly share things about my work, or through [email](mailto:tulswani19@gmail.com).
+I'm currently working at [Trainline](https://www.thetrainline.com) based in London. You can get in touch with me on Twitter [@NTulswani](https://twitter.com/NTulswani) where I mostly share things about my work, or through [email](mailto:tulswani19@gmail.com).
 
 I am not so active these days as I used to be working on the open source projects but the pinned projects below are some of my favourite 🤩 
 
@@ -21,4 +19,4 @@ I enjoy working on creative coding projects. These are some of things that I hav
 * [Shaping functions](https://shaping-functions.surge.sh/) 🌊 - A visualisation of different shaping functions used in shaders.
 
 
-#### Latest project - [Word class visualiser](https://word-classes-visualiser.netlify.app/) 🤓
+#### Recent project - [Word class visualiser](https://word-classes-visualiser.netlify.app/) 🤓
